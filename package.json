@@ -13,7 +13,7 @@
     "browserify": "^11.0.1",
     "express": "~3.3.3",
     "node-minify": "~0.7.3",
-    "nunjucks": "~0.1.9",
+    "nunjucks": "~3.2.2",
     "open": "0.0.3",
     "grunt": "~0.4.1",
     "grunt-cli": "~0.1.8",
